@@ -1,6 +1,6 @@
-namespace Store.Domain;
-
 using Newtonsoft.Json;
+
+namespace Store.Domain;
 
 public class Product(string name, decimal price) : IProduct {
     public string Name { get; set; } = name;
