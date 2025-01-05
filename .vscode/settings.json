@@ -1,0 +1,4 @@
+{
+    "dotnet.completion.showNameCompletionSuggestions": true,
+    "dotnet.completion.triggerCompletionInArgumentLists": false
+}
